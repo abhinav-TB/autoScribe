@@ -4,4 +4,4 @@
 ### Info about the dataset 
 ```We'll be using the [IAM Handwriting Top50](https://www.kaggle.com/tejasreddy/iam-handwriting-top50) dataset from kaggle (Credits to TejasReddy).```
 ### Info about the model you are going to be used.
-```RNN.```
+```RNN```
